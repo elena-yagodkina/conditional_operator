@@ -9,11 +9,10 @@ public class Task7 {
         if (one > two && one > three) {
             System.out.println("Число " + one + " самое большое");
         }
-        if (two > one && two > three) {
+        else if (two > one && two > three) {
             System.out.println("Число " + two + " самое большое");
         }
-        else  {
-            if (three > one && three > two)
+        else if (three > one && three > two) {
             System.out.println("Число " + three + " самое большое");
         }
     }
