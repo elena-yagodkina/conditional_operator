@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="28ec1706-f219-4aba-949a-4f3668ffd946" name="Changes" comment="" />
+    <list default="true" id="28ec1706-f219-4aba-949a-4f3668ffd946" name="Changes" comment="homework_fix">
+      <change beforePath="$PROJECT_DIR$/src/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task5.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -25,6 +43,52 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Task6">
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task3" />
+      <module name="conditional_operator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4" />
+      <module name="conditional_operator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task5" />
+      <module name="conditional_operator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task6" />
+      <module name="conditional_operator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task7" />
+      <module name="conditional_operator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,6 +98,37 @@
       <option name="presentableId" value="Default" />
       <updated>1702366575918</updated>
     </task>
+    <task id="LOCAL-00001" summary="new_master">
+      <option name="closed" value="true" />
+      <created>1702366698572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702366698572</updated>
+    </task>
+    <task id="LOCAL-00002" summary="my_homework">
+      <option name="closed" value="true" />
+      <created>1702373274192</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702373274192</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homework_fix">
+      <option name="closed" value="true" />
+      <created>1702390510776</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702390510776</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new_master" />
+    <MESSAGE value="my_homework" />
+    <MESSAGE value="homework_fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework_fix" />
   </component>
 </project>
